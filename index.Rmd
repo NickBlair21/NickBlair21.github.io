@@ -1,0 +1,13 @@
+---
+title: "DDS Website"
+author: "Nick Blair"
+date: "4/1/2020"
+output: html_document
+---
+
+
+# This website was created for MSDS 6306 - Doing Data Science  
+## Currently, this site hosts the following information:
+### -About Me section
+### -MSDS 6306 Case Study 1 brewery data project  
+### 

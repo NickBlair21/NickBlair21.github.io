@@ -1,0 +1,12 @@
+name: "Nick's Website"
+navbar:
+  title: "Nick's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Brewery Data"
+      href: caseStudy.html
+    - text: "Temporary"
+      href: CLT_2.html
