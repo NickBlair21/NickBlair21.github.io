@@ -7,7 +7,6 @@ output: html_document
 
 
 # This website was created for MSDS 6306 - Doing Data Science  
-## Currently, this site hosts the following information:
-### -About Me section
-### -MSDS 6306 Case Study 1 brewery data project  
+## Currently, this site hosts a link to a YouTube presentation for CS2 - DDS Analytics - Attrition Insights
+### https://youtu.be/9SsTfrzQWe4
 ### 
